@@ -2,6 +2,8 @@ package com.example.ey.classes;
 
 import org.springframework.stereotype.Component;
 
+// @Component will be added to inform the Application class that 
+// object of this class can be created
 @Component
 
 public class Aeroplane {
